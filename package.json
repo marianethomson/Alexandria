@@ -1,0 +1,31 @@
+{
+  "name": "alexandria",
+  "version": "1.0.0",
+  "description": "app to store info about your favourite movies, books, music and art",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmit-s3672108-mariane-dinis/Alexandria.git"
+  },
+  "keywords": [
+    "mean",
+    "book",
+    "art"
+  ],
+  "author": "Mariane Dinis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmit-s3672108-mariane-dinis/Alexandria/issues"
+  },
+  "homepage": "https://github.com/rmit-s3672108-mariane-dinis/Alexandria#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.11",
+    "nodemon": "^1.17.2"
+  }
+}
