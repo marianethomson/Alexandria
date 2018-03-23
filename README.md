@@ -1,5 +1,5 @@
 # Alexandria
-App to store info about your favourites books, movies and music - Simple app, Node + Express + MySQL 
+App to store info about your favourites books and books to read - Simple app, Node + Express + MySQL 
 
 Local installation: To install all the required dependencies locally, type on your command line:
 
